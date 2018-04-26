@@ -1,1 +1,1 @@
-# Rest API with JWT authorization
+# AWS React Auth
